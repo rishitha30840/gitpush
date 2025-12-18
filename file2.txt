@@ -1,5 +1,2 @@
-#gitpush
-change from feature2
-git add file1.txt
-git commit -m "Update file1.txt in feature2"
-git push -u origin feature2
+"#gitpush"
+
