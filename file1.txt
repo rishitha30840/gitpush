@@ -1,2 +1,6 @@
-"#gitpush"
-"change from feature2" 
+#gitpush
+"change from feature2"
+"change in file1 from feature1"
+git add file1.txt
+git commit -m "Resolved merge conflict in file1.txt"
+git push origin feature2
